@@ -1,7 +1,10 @@
-### Hi there 👋
+### echo "Hi there 👋"
+
+### Wake Up to Reality!
+### Get a Cup of coffe and type some Code.
 
 <!--
-**Nemeziz10/Nemeziz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nemeziz10/Nemeziz10 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=Nemeziz10&theme=midnight-purple&show_icons=true%22%3E
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nemeziz10&label=Profile%20views&color=0e75b6&style=flat" alt="Nemeziz10" /> </p>
