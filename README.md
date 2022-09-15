@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Nemeziz10&theme=midnight-purple&show_icons=true%22%3E
+<img src="https://github-readme-stats.vercel.app/api?username=Nemeziz10&theme=midnight-purple&show_icons=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nemeziz10&label=Profile%20views&color=0e75b6&style=flat" alt="Nemeziz10" /> </p>
