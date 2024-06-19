@@ -1,7 +1,7 @@
 ### echo "Hi there 👋"
 
 ### Wake Up to Reality!
-### Get a Cup of coffe and type some Code.
+### Get a Cup of coffee and type some Code.
 
 <!--
 Nemeziz10/Nemeziz10 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
